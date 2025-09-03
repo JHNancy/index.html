@@ -1,1 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Three Things I Learned</title>
+	<link rel="stylesheet" href="./assets/css/styles.css">
+</head>
+<body>
 
+	<h1>Three Things I Learned</h1>
+	<p></p>
+	
+
+	<script src="./assets/js/main.js"></script>
+</body>
+</html>
